@@ -1,5 +1,3 @@
-﻿# PS script to add domain users/groups to localgroups.
-#
 # This script provides the ability to add/remove a domain user
 # or group from a localgroup on a computer attatched to a domain.
 # Not only can you perform the action on just one computer, but
